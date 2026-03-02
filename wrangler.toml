@@ -1,0 +1,4 @@
+name = 'logging'
+main = 'worker.js'
+compatibility_date = '2026-03-02'
+workers_dev = true
